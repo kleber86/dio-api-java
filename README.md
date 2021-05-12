@@ -18,6 +18,13 @@
 > 1. Configuração do banco de dados Postgres.
 > 2. Configuração da conexão com o banco de dados.
 
+##### Aula 04
+> 1. Criando e inserindo dados da table pais.
+> 2. Criando e inserindo dados da table estados.
+
+##### Aula 05
+> 1. Criando as classesCountryResource e Country
+
 ### :hammer: Tecnologias
 <ul>
     <li>Java 8</li>
