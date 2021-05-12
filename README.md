@@ -10,6 +10,13 @@
 
 ### :memo: Módulos
 
+##### Aula 02
+> 1. Criação do projeto Spring Boot
+> 2. Importar no Jetbrains
+
+##### Aula 03
+> 1. Configuração do banco de dados Postgres.
+> 2. Configuração da conexão com o banco de dados.
 
 ### :hammer: Tecnologias
 <ul>
