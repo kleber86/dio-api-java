@@ -32,6 +32,14 @@
 ##### Aula 07
 > 1. Implmentando o Pageable ao metodo list countries.
 
+##### Aula 08
+> 1. Implmentando o metodo para de busca de um unico pais.
+
+##### Aula 09
+> 1. Refatorando o pacote cities
+> 2. Implementando a classe State
+> 3. Implementando um pacote de terceiros para utilizar o json
+
 ### :hammer: Tecnologias
 <ul>
     <li>Java 8</li>
