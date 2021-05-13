@@ -40,6 +40,9 @@
 > 2. Implementando a classe State
 > 3. Implementando um pacote de terceiros para utilizar o json
 
+##### Aula 10
+> 1. Implementando a classe City
+
 ### :hammer: Tecnologias
 <ul>
     <li>Java 8</li>
