@@ -1,13 +1,12 @@
-package com.cities.apicities;
+package com.cities.apicities.countries;
 
 import com.cities.apicities.countries.Country;
-import com.cities.apicities.repository.CountryRepository;
+import com.cities.apicities.countries.repository.CountryRepository;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Page;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
 import java.util.Optional;
 
 @RestController
