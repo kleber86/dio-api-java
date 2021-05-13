@@ -23,7 +23,11 @@
 > 2. Criando e inserindo dados da table estados.
 
 ##### Aula 05
-> 1. Criando as classesCountryResource e Country
+> 1. Criando as classes CountryResource e Country
+
+##### Aula 06
+> 1. Mapenado e implmentando a classe Country
+> 2. Implementando a classe CountryResource o metodo list countries;
 
 ### :hammer: Tecnologias
 <ul>
