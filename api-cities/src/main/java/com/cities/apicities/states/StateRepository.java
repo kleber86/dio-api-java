@@ -1,4 +1,4 @@
-package com.cities.apicities.staties;
+package com.cities.apicities.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

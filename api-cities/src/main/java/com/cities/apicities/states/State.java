@@ -1,4 +1,4 @@
-package com.cities.apicities.staties;
+package com.cities.apicities.states;
 
 import com.cities.apicities.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
