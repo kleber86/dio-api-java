@@ -43,6 +43,12 @@
 ##### Aula 10
 > 1. Implementando a classe City
 
+##### Aula 11
+> 1. Explicação sobre o funcionamento do calculo para efeturar a distancia entre duas cidades.
+
+##### Aula 12
+> 1. Implementando a classe CityRepository
+
 ### :hammer: Tecnologias
 <ul>
     <li>Java 8</li>
