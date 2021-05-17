@@ -27,13 +27,13 @@
 
 ##### Aula 06
 > 1. Mapenado e implmentando a classe Country.
-> 2. Implementando a classe CountryResource o metodo list countries.
+> 2. Implementando a classe CountryResource o método list countries.
 
 ##### Aula 07
-> 1. Implmentando o Pageable ao metodo list countries.
+> 1. Implmentando o Pageable ao método list countries.
 
 ##### Aula 08
-> 1. Implmentando o metodo para de busca de um unico pais.
+> 1. Implmentando o método para de busca de um unico pais.
 
 ##### Aula 09
 > 1. Refatorando o pacote cities
@@ -48,6 +48,11 @@
 
 ##### Aula 12
 > 1. Implementando a classe CityRepository
+
+##### Aula 13
+> 1. Implementando a classe os método bycube e bypoints.
+> 2. Refatorando algumas partes do codigo.
+> 3. Refatorando o tipo de retorno dos método bycube e bypoints.
 
 ### :hammer: Tecnologias
 <ul>
